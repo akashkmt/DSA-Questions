@@ -1,4 +1,4 @@
-# DSA-Questions
+# DSA - Questions
 
 ## List
 - Add Binary
